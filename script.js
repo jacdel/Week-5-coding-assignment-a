@@ -64,11 +64,10 @@ class Menu {
                       welcome to A-lists
      reserve your animes for in person pick up!
         0 - exit
-        1 - create list
-        2 - browse a list
+        1 - create order
+        2 - browse a order
         3 - delete order
-        4 - view all Lists
-        `);
+        4 - view all orders`
 
     }
     showOrderMenu(listDetails){
